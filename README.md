@@ -94,7 +94,7 @@ We use three complementary metrics:
 
 ```bash
 # Clone repository
-git clone <repo-url>
+git clone https://github.com/MansiDhanania/Novelty-in-LLM-Guided-RL.git
 cd RL_LLM
 
 # Install dependencies
