@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+*.env
+!.env.example
+
+# Database
+*.db
+logs/*.db
+experiments.db
+
+# Results (optional - comment out if you want to commit plots)
+# results/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
