@@ -312,29 +312,3 @@ RL_LLM/
 4. **Human Evaluation**: Blind comparison of V3 vs V4 hypotheses by physics experts
 
 ---
-
-## 📄 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@software{novelty_rl_llm_2026,
-  title={Measuring and Enforcing Novelty in LLM-Guided Reinforcement Learning},
-  author={[Your Name]},
-  year={2026},
-  url={[GitHub URL]}
-}
-```
-
----
-
-## 📜 License
-
-MIT License - See LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- **Groq** for fast LLM inference
-- **sentence-transformers** for semantic embedding models
-- **Stable-Baselines3** for clean RL implementations
-- **Margaret Boden** for the creativity taxonomy framework
