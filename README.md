@@ -117,6 +117,9 @@ python run_experiment.py
 # Generate plots from existing data
 python run_experiment.py --plots-only
 
+# Comparative Plots
+python visualization/make_comparison_plot.py
+
 # Launch interactive dashboard
 streamlit run visualization/dashboard.py
 ```
